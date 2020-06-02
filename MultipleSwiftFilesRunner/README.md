@@ -1,4 +1,4 @@
-# This is an example for running multiple Swift files through [Swift Package Manager](https://swift.org/getting-started/#using-the-package-manager)
+# This is an example for running multiple Swift files using [Swift Package Manager](https://swift.org/getting-started/#using-the-package-manager)
 
 To create swift target using Swift Package Manager :
 
